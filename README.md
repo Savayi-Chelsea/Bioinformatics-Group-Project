@@ -1,6 +1,6 @@
 # Cell-cycle gene expression in lung adenocarcinoma (TCGA-LUAD)
 
-**Computing Bioinformatics – Group 3 Project**
+**Computing Bioinformatics – Group 4 Project**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Savayi-Chelsea/Bioinformatics-Group-Project/blob/main/Bioinformatics_Group_Project.ipynb)
 
@@ -74,7 +74,7 @@ The enrichment step (Enrichr), the STRING network and the KEGG gene list are fet
 
 
 
-## Group 3
+## Group 4
 
 | Name | Adm No |
 |---|---|
